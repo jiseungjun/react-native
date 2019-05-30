@@ -8,6 +8,7 @@
 
 # Build
 > expo build:android
+
 > expo build:ios
 
 - It seems your assets have not been optimized yet.
