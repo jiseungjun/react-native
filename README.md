@@ -11,6 +11,8 @@
 
 > expo build:ios
 
+> expo eject
+
 - It seems your assets have not been optimized yet.
 ? Do you want to optimize assets now? Yes
 
