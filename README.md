@@ -1,5 +1,6 @@
 # Init
 > npm install -g expo-cli
+
 > expo init **Project Name**
 
 # Start
